@@ -67,6 +67,11 @@ p {
     padding: 10px;
 }
 
+.size {
+    font-size: 23px;
+    padding: 10px;
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
